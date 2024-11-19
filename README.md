@@ -1,4 +1,4 @@
-# Business-Intelligence-Reporting
+# Business-Information-Reporting
 
 This repository hosts the **Business Intelligence Reporting** project for an e-commerce sector analysis, highlighting critical metrics such as revenue, profit, customer retention, and sales performance. The analysis leverages **Power BI** to visualize insights and drive data-driven decision-making.
 
